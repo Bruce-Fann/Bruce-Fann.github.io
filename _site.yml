@@ -9,4 +9,6 @@ navbar:
       href: https://github.com/Bruce-Fann
     - icon: fa-envelope
       href: "mailto:zf2384@cumc.columbia.edu"
+    - text: "Problem 2 Dashboard" 
+      href: https://Bruce-Fann.github.io/p8105-hw4/problem2_dashboard.html
 
