@@ -1,7 +1,15 @@
 ---
 title: "Welcome to my website!"
-output: html_document
+author: "Bruce Fan"
 ---
-Hi, I am a student of Environmental Health Data Science in Columbia Maiman School of Public Health.
 
-This Website shows my resume and some of my works.
+<br> **Columbia University** | Environmental Health Data Science <br>
+**Duke Kunshan University** | Environmental Sicence
+
+---
+Hi, I am Bruce, a student of EHS Data Science in Columbia Mailman School of Public Health.
+
+This website shows my resume and some of my works.
+
+<br>
+Check this dashboard in my homework 4 of Data Science Class avaliable on the upper right.
