@@ -1,0 +1,12 @@
+name: "Bruce Fan"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "My Resume"
+      href: resume.html
+    - icon: fa-github
+      href: https://github.com/Bruce-Fann
+    - icon: fa-envelope
+      href: "mailto:zf2384@cumc.columbia.edu"
+

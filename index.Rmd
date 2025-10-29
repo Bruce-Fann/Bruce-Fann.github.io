@@ -1,0 +1,7 @@
+---
+title: "Welcome to my website!"
+output: html_document
+---
+Hi, I am a student of Environmental Health Data Science in Columbia Maiman School of Public Health.
+
+This Website shows my resume and some of my works.
