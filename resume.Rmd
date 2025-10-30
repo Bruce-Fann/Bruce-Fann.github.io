@@ -1,27 +1,40 @@
 ---
 title: "Bruce Fan"
----
-<img src="profile.jpg" width="200" style="border-radius:50%; float:right; margin-left:25px; margin-top:10px;">
 
-## Contact
+
+
+---
+<img src="profile.jpg" width="200"
+     style="border-radius:50%; float:right; margin-left:25px; margin-top:10px;
+            transform: scale(1.1); transform-origin: center;
+            box-shadow:0 0 8px rgba(0,0,0,0.2);">
+<br>
+---
 zf2384@cumc.columbia.edu | 347-475-7976 |
 [My Github](https://github.com/Bruce-Fann)
 
----
 
 ## Education
 
 **Columbia University, Irving Medical Center** — *M.S. in Environmental Health Data Science*  
-_New York, United States_ • *Expected Graduation: May 2026*  
-- Relevant Courses: Data Science, Biostatistics, Molecular Epidemiology, Environmental Health Science  
+_New York, United States_
+
+
+<br>
 
 **Duke Kunshan University (DKU)** — *B.S. in Environmental Science (Biogeochemistry)*  
-_Kunshan, China_ • *Graduation: May 2025*  
-- Relevant Courses: Applied Environmental Science & Policy, Global Change Biology, Biogeochemistry, Life Cycle Assessment  
+_Kunshan, China_
+  
 
 ---
 
 ## Professional Experience
+**Institute of Science and Development, Chinese Academy of Sciences (CASISD)** — *Research Assistant Intern*  
+_Beijing, China (Remote)_ • *July – November 2025*  
+- **Policy Research:** Collected and synthesized data on **energy, mining, and climate policies** from national and international sources to support strategic climate reports.  
+- **Data Analysis:** Applied **R and Excel** to analyze macroeconomic and emission datasets, identifying policy impacts and regional disparities in carbon reduction.  
+- **Report Contribution:** Drafted sections of a **national climate strategy report** and prepared data visualizations cited in internal policy briefings. 
+
 
 **Guotai Junan Securities, Jiangsu Branch** — *Financial Products Department Intern*  
 _Nanjing, China_ • *June – July 2024*  
@@ -29,12 +42,13 @@ _Nanjing, China_ • *June – July 2024*
 - **Research & Visualization:** Built dashboards and summarized investment trends for internal presentations.  
 - **Collaboration:** Organized training sessions on financial modeling and quantitative tools for 10+ junior analysts.  
 
+
 ---
 
 ## Research Experience
 
 **Foraging Ecology of Asian Dowitchers at Coastal Wetlands**  
-_Core Research Member | Aug 2023 – Present_  
+_Core Research Member | Aug 2023 – May 2025_  
 - **Behavioral Quantification:** Designed ethograms and used **BORIS** to analyze foraging behaviors from field videos.  
 - **Statistical Modeling:** Applied **Python** to assess dietary preferences and habitat suitability.  
 - **Scientific Communication:** Authored reports linking prey distribution with species-specific foraging strategies.  

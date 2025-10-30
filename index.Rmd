@@ -2,6 +2,22 @@
 title: "Welcome to my website!"
 author: "Bruce Fan"
 ---
+<style>
+body {
+  max-width: 950px;
+  margin: auto;
+  line-height: 1.6;
+}
+h2 {
+  border-bottom: 2px solid #ddd;
+  padding-bottom: 3px;
+  margin-top: 40px;
+}
+ul {
+  margin-left: 15px;
+}
+</style>
+
 
 <br> **Columbia University** | Environmental Health Data Science <br>
 **Duke Kunshan University** | Environmental Sicence
